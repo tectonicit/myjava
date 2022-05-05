@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Demo{
 public static void main(String args[]){    
     
-               int a,b,c;
+               int a,b,c,d;
                Scanner sc=new Scanner(System.in);
                System.out.println("Enter 2 numbers ");                
                 a=sc.nextInt();
